@@ -2,11 +2,11 @@
 Module 3-Python
 ## Completed the following tasks for the Colorado Board of Elections congressional election audit. 
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes per candidate.
-4. Calculate the percentage of votes per candidate.
-5. Determine the election winner based on popular vote. 
+1. Calculated the total number of votes cast.
+2. Got a complete list of candidates who received votes.
+3. Calculated the total number of votes per candidate.
+4. Calculated the percentage of votes per candidate.
+5. Determined the election winner based on popular vote. 
 
 ## Resources
 - Data source: election_results.csv
