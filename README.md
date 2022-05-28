@@ -1,6 +1,6 @@
 # Election_Analysis
 Module 3-Python
-## Completed the following tasks for the Colorado Board of Elections to complete the congressional election audit. 
+## Completed the following tasks for the Colorado Board of Elections congressional election audit. 
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
