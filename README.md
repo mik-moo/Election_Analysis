@@ -19,7 +19,7 @@ This analysis was conducted to audit the recent congressional election for the C
 - Data source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.67.2
 
-## Summary
+## Election Audit Results
 The election analysis shows:
 - There were 369,711 votes cast in this election.
 - The voting counties were:
@@ -48,10 +48,14 @@ The election analysis shows:
 - The winner of the election was:
     - Diana DeGette who received 73.8% of the vote and 272,892 votes.
 
+### Results Summary
+ 
+
+See election analysis file in the analysis folder for results:
 See election analysis file in the analysis folder for results:
 
 <img src="analysis/Analysis_Results.PNG" width="300">
 
-## Challenge Overview
+## Proposal for script usage
 
-## Challenge Summary
+This script could be used to analyze more data from a data set.  With some modifications to the variables, it could compare votes by age groups or by gender if that was of interest.  It could also perform similar analyses based on race and ethnicity with modifications.  
